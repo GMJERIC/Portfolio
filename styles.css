@@ -82,3 +82,11 @@ footer {
     font-size: 2.5em; 
     margin-top: 20px; 
 }
+.profile-pic {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover;
+}
