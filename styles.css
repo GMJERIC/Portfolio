@@ -76,3 +76,9 @@ footer {
 .social-media a:hover {
     background-color: #666;
 }
+
+#projects h2 {
+    text-align: center;
+    font-size: 2.5em; 
+    margin-top: 20px; 
+}
